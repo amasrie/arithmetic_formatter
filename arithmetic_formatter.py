@@ -51,6 +51,6 @@ def arithmetic_formatter(list, answer = False):
         lines = lines if not answer else lines + "\n" + line4
         return lines
 
-print(arithmetic_formatter(["32 + 8", "1 - 3801", "999.9 + 9999", "523 - 49"], True))
+#print(arithmetic_formatter(["32 + 8", "1 - 3801", "999.9 + 9999", "523 - 49"], True))
 
 
