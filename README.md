@@ -1,4 +1,4 @@
-# Python Excercises
+# Python Exercises
 
 ## Basic Python
 
