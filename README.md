@@ -12,4 +12,5 @@
 
 1. [Mean-Variance-Standard Deviation Calculator](https://github.com/amasrie/python_exercises/tree/main/data_analysis/1_mean_variance_standard_deviation_calculator)
 2. [Demographic Data Analyzer](https://github.com/amasrie/python_exercises/tree/main/data_analysis/2_demographic_data_analyzer)
+3. [Medical Data Visualizer](https://github.com/amasrie/python_exercises/tree/main/data_analysis/3_medical_data_visualizer)
 
