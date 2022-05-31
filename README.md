@@ -14,3 +14,4 @@
 2. [Demographic Data Analyzer](https://github.com/amasrie/python_exercises/tree/main/data_analysis/2_demographic_data_analyzer)
 3. [Medical Data Visualizer](https://github.com/amasrie/python_exercises/tree/main/data_analysis/3_medical_data_visualizer)
 4. [Page View Time Series Visualizer](https://github.com/amasrie/python_exercises/tree/main/data_analysis/4_page_view_time_series_visualizer)
+5. [Sea Level Predictor](https://github.com/amasrie/python_exercises/tree/main/data_analysis/5_sea_level_predictor)
