@@ -8,6 +8,11 @@
 4. [Polygon Area Calculator](https://github.com/amasrie/python_exercises/tree/main/basic_python/4_polygon_area_calculator)
 5. [Probability Calculator](https://github.com/amasrie/python_exercises/tree/main/basic_python/5_probability_calculator)
 
+## PenTesting
+
+1. [Port Scanner](https://github.com/amasrie/python_exercises/tree/main/pentesting/1_port_scanner)
+2. [SHA-1 Password Cracker](https://github.com/amasrie/python_exercises/tree/main/pentesting/2_SHA_1_password_cracker)
+
 ## Data Analysis
 
 1. [Mean-Variance-Standard Deviation Calculator](https://github.com/amasrie/python_exercises/tree/main/data_analysis/1_mean_variance_standard_deviation_calculator)
